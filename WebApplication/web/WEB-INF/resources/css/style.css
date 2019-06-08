@@ -1,0 +1,36 @@
+.font_google{
+	font-family: 'Crete Round', serif;
+}
+.nomargin{
+	margin:0px;
+}
+.pagine{
+	margin-top:50px;
+	display:inline-block;
+	text-align:center
+}
+.pagine a{
+	color:#42A5F5;
+	padding: 11px 20px;
+	text-decoration:none;
+	border-radius:5px;
+	border: 3px solid #2196F3;
+	font-weight:bold;
+	font-size:17px;
+}
+
+.pagine a.active {
+    background-color: #2196F3;
+    color: white;
+    border-radius: 5px;
+}
+
+.pagine a:hover:not(.active) {
+    background-color: #2196F3;
+    color:white;
+    border-radius: 5px;
+}
+
+.padding_li{
+	padding: 4px 16px !important;
+}
