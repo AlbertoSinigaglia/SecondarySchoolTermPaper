@@ -1,7 +1,7 @@
 # SecondarySchoolTermPaper
 My secondary school term paper at ITIS Severi PD
 This is a WebApplication built with the target to build a platform where a company could manage non-compliance inside itself.
-It is based on a website built on 3 level: 
+It is based on a responsive website built on 3 level: 
 1. **non-compliance administrator** : 
 manage non-compliance warnings, define who have to work on it (of the employees), can see some Graphs and statistics about the non-compliances, decide when or not a non-compliance is end or not, has access to all the non-compliance, manage registration requests of the clients and of the employees, can see all the clients and the employees registered, manage the warehouse (products and pieces of the products) and some other maintenance actions
 2. **employee** :
