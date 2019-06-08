@@ -34,9 +34,11 @@ and a Android App only for non-compliance administrator, and only for "see" the 
 8 tables
 6 relationships (2-NN, 4-1N)
 43 fiels
+
 **Back-end:**
 Web: 3.336 LLOC
 Mobile: 3.007 LLOC
+
 **Front-end**:
 Web: 4.732 LLOC
 Mobile: 3.874 LLOC
