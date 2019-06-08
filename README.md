@@ -42,5 +42,6 @@ Mobile: 3.007 LLOC
 **Front-end**:
 Web: 4.732 LLOC
 Mobile: 3.874 LLOC
+
 **Tot:**
 Everythig for a total of 14.949 LLOC (CSS classes property all in one line)
